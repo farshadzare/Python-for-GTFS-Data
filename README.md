@@ -1,1 +1,2 @@
 # Bus Network Visualization using GTFS Data
+This repository demonstrates how Python can be used to process and analyze General Transit Feed Specification (GTFS) data, providing tools and workflows for exploring public transportation networks. GTFS is a widely adopted format for public transit schedules and geographic data, making it an essential resource for urban planners, GIS professionals, and transit agencies.
